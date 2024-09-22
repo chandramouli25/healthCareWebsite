@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/healthCareWebsite/static/css/main.7cf2c279.css",
+    "main.js": "/healthCareWebsite/static/js/main.fb358878.js",
+    "static/js/453.c57b4cd1.chunk.js": "/healthCareWebsite/static/js/453.c57b4cd1.chunk.js",
+    "static/media/header.jpg": "/healthCareWebsite/static/media/header.e5a4502bbd694636eee5.jpg",
+    "static/media/doctor-2.jpg": "/healthCareWebsite/static/media/doctor-2.3e2ec363d1aae5322888.jpg",
+    "static/media/about.jpg": "/healthCareWebsite/static/media/about.a12007cce83cd65e1536.jpg",
+    "static/media/choose-us.jpg": "/healthCareWebsite/static/media/choose-us.269ef9b090977af2d0a3.jpg",
+    "static/media/doctor-1.jpg": "/healthCareWebsite/static/media/doctor-1.ed757866cf411ccc3d24.jpg",
+    "static/media/doctor-3.jpg": "/healthCareWebsite/static/media/doctor-3.4f0ebefd5e40de0b57bd.jpg",
+    "index.html": "/healthCareWebsite/index.html",
+    "main.7cf2c279.css.map": "/healthCareWebsite/static/css/main.7cf2c279.css.map",
+    "main.fb358878.js.map": "/healthCareWebsite/static/js/main.fb358878.js.map",
+    "453.c57b4cd1.chunk.js.map": "/healthCareWebsite/static/js/453.c57b4cd1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7cf2c279.css",
+    "static/js/main.fb358878.js"
+  ]
+}
