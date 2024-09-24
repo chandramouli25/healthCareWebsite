@@ -7,7 +7,7 @@ const NavBarContainer = () => {
       return (
         <nav className="section__container nav__container">
           <div className="nav__logo">
-            Health<span>Care</span>
+            Health<span>Guard</span>
           </div>
           <ul className="nav__links">
             {Object.keys(navContent).map((key) => (

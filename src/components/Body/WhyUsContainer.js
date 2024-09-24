@@ -1,5 +1,5 @@
 import React from 'react'
-import whyusimg from '../../assets/choose-us.jpg'
+import whyusimg from '../../assets/Drmain.webp'
 const WhyUsContainer = () => {
   return (
     <section className="section__container why__container" id="blog">
