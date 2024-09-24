@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/healthCareWebsite/static/css/main.7cf2c279.css",
-    "main.js": "/healthCareWebsite/static/js/main.fb358878.js",
+    "main.css": "/healthCareWebsite/static/css/main.970b6454.css",
+    "main.js": "/healthCareWebsite/static/js/main.cb4c6a3c.js",
     "static/js/453.c57b4cd1.chunk.js": "/healthCareWebsite/static/js/453.c57b4cd1.chunk.js",
     "static/media/header.jpg": "/healthCareWebsite/static/media/header.e5a4502bbd694636eee5.jpg",
-    "static/media/doctor-2.jpg": "/healthCareWebsite/static/media/doctor-2.3e2ec363d1aae5322888.jpg",
-    "static/media/about.jpg": "/healthCareWebsite/static/media/about.a12007cce83cd65e1536.jpg",
-    "static/media/choose-us.jpg": "/healthCareWebsite/static/media/choose-us.269ef9b090977af2d0a3.jpg",
-    "static/media/doctor-1.jpg": "/healthCareWebsite/static/media/doctor-1.ed757866cf411ccc3d24.jpg",
-    "static/media/doctor-3.jpg": "/healthCareWebsite/static/media/doctor-3.4f0ebefd5e40de0b57bd.jpg",
+    "static/media/dr4.jpg": "/healthCareWebsite/static/media/dr4.d5e511af1c9300474a5d.jpg",
+    "static/media/dr3.jpg": "/healthCareWebsite/static/media/dr3.012a49775b12fc1ac3e0.jpg",
+    "static/media/d2.jpg": "/healthCareWebsite/static/media/d2.505596f4399d52636be6.jpg",
+    "static/media/Drmain.webp": "/healthCareWebsite/static/media/Drmain.d1843b6f4b4d24744352.webp",
+    "static/media/d29.jpg": "/healthCareWebsite/static/media/d29.bac78bea1a875d8a572e.jpg",
     "index.html": "/healthCareWebsite/index.html",
-    "main.7cf2c279.css.map": "/healthCareWebsite/static/css/main.7cf2c279.css.map",
-    "main.fb358878.js.map": "/healthCareWebsite/static/js/main.fb358878.js.map",
+    "main.970b6454.css.map": "/healthCareWebsite/static/css/main.970b6454.css.map",
+    "main.cb4c6a3c.js.map": "/healthCareWebsite/static/js/main.cb4c6a3c.js.map",
     "453.c57b4cd1.chunk.js.map": "/healthCareWebsite/static/js/453.c57b4cd1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7cf2c279.css",
-    "static/js/main.fb358878.js"
+    "static/css/main.970b6454.css",
+    "static/js/main.cb4c6a3c.js"
   ]
 }
