@@ -118,11 +118,12 @@ header {
   font-size: 3.5rem;
   line-height: 4rem;
   color: var(--white);
+  text-align: center;
 }
 
 .header__container p {
   margin-bottom: 2rem;
-  max-width: 600px;
+  max-width: 800px;
   color: var(--primary-color-light);
 }
 

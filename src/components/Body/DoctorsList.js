@@ -1,24 +1,25 @@
 import React from 'react'
-import doctImg1 from '../../assets/doctor-1.jpg'
-import doctImg2 from '../../assets/doctor-2.jpg'
-import doctImg3 from '../../assets/doctor-3.jpg'
+import doctImg1 from '../../assets/d2.jpg'
+import doctImg2 from '../../assets/dr3.jpg'
+import doctImg3 from '../../assets/dr4.jpg'
 import DoctorCard from '../cards/DoctorCard'
 
 const DoctorsList = () => {
     const doctList = [
-        { name: "Dr. Emily Smith", speciality: "Cardiologist", img: doctImg1 },
-        { name: "Dr. James Anderson", speciality: "Neurosurgeon", img: doctImg2 },
-        { name: "Dr. Michael Lee", speciality: "Cardiologist", img: doctImg3 }
+        { name: "Dr. Kamala", speciality: "Cardiologist", img: doctImg1 },
+        { name: "Dr. MohanRaj", speciality: "Neurosurgeon", img: doctImg2 },
+        { name: "Dr. Priyesh A. A", speciality: "Urology", img: doctImg3 }
     ];
 
     return (
         <section className="section__container doctors__container" id="pages">
             <div className="doctors__header">
                 <div className="doctors__header__content">
-                    <h2 className="section__header">Our Special Doctors</h2>
+                    <h2 className="section__header">Our Dedicated Specialists</h2>
                     <p>
-                        We take pride in our exceptional team of doctors, each a specialist
-                        in their respective fields.
+                        We are proud to present our outstanding team of doctors,
+                        each an expert in their respective fields, dedicated to providing exceptional care.
+
                     </p>
                 </div>
                 <div className="doctors__nav">

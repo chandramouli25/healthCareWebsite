@@ -5,7 +5,7 @@ const Footer = () => {
         <footer className ="footer">
             <div className ="section__container footer__container">
                 <div className ="footer__col">
-                    <h3>Health<span>Care</span></h3>
+                    <h3>Health<span>Guard</span></h3>
                     <p>
                         We are honored to be a part of your healthcare journey and committed
                         to delivering compassionate, personalized, and top-notch care every
@@ -35,15 +35,15 @@ const Footer = () => {
                 <div className ="footer__col">
                     <h4>Contact Us</h4>
                     <p>
-                        <i className ="ri-map-pin-2-fill"></i> 123, London Bridge Street, London
+                        <i className ="ri-map-pin-2-fill"></i> 123, Mayiladuthurai , Tamil Nadu , India
                     </p>
                     <p><i className ="ri-mail-fill"></i> support@care.com</p>
-                    <p><i className ="ri-phone-fill"></i> (+012) 3456 789</p>
+                    <p><i className ="ri-phone-fill"></i> (+91) 8857288746</p>
                 </div>
             </div>
             <div className ="footer__bar">
                 <div className ="footer__bar__content">
-                    <p>Copyright © 2023 Web Design Mastery. All rights reserved.</p>
+                    <p>Copyright © 2024 Web Design Mastery. All rights reserved.</p>
                     <div className ="footer__socials">
                         <span><i className ="ri-instagram-line"></i></span>
                         <span><i className ="ri-facebook-fill"></i></span>

@@ -5,17 +5,16 @@ const Header = () => {
     return (
 
         <header>
-            <NavBarContainer/>
-            <div className ="section__container header__container" id="home">
-                <div className ="header__content">
-                    <h1>Providing an Exceptional Patient Experience</h1>
-                    <p>
-                        Welcome, where exceptional patient experiences are our priority.
-                        With compassionate care, state-of-the-art facilities, and a
-                        patient-centered approach, we're dedicated to your well-being. Trust
-                        us with your health and experience the difference.
+            <NavBarContainer />
+            <div className="section__container header__container" id="home">
+                <div className="header__content">
+                    <h1 style={{ textAlign: 'center' }}>Delivering Outstanding Patient Care Experience</h1>
+                    <p  style={{ textAlign: 'center' }}>
+                        Welcome! Your health and comfort are our highest priorities. With personalized care,
+                        advanced facilities, and a patient-first approach, we are dedicated to ensuring a superior
+                        healthcare experience. Rely on us for your well-being and discover the difference.
                     </p>
-                    <button className ="btn">See Services</button>
+                    <button className="btn">See Services</button>
                 </div>
                 <BookNow></BookNow>
             </div>
